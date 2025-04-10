@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/009a9906dfd3e38e91778a236cf94ec5/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/3131291e2127ef65443df720ced93bfe/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/e0cf66fe48f1a73c4697b63afb7258de/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-gesture-handler] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.69.12] /Users/bartosz/.gradle/caches/transforms-3/db0201b057d330b35ffc4d1fa21b1142/transformed/jetified-react-native-0.69.12-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/bd21db185cce662efa15ce7d66fb8683/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/bartosz/.gradle/caches/transforms-3/23f492ebfbef209533728998a2c4e7e3/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-reanimated/android/build/.transforms/cf9f7c472abed0c75d4b1d3cd96e289b/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f82b7ac3a7386fbb41da4987f185169c/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/26450c0dbc5c31c418345df65ef953a4/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/40a1334a2f62ed9f92f29317233e0e9b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/84a8e86dc1911decf8e87dc8c0b2afd9/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/bartosz/.gradle/caches/transforms-3/05fe06a7b4f333c330c48faee57b027e/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f68a77a9d4a1aab78e55812b3f8faddc/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b4c39531648b3c96cc0f2a525962c527/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b3490e4f039e3e3afb4fc6813bff84a4/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/82c6dcdd1c1e47222d2e1c78c03ccd77/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f14230c804311733e2ad87ddd8ef7e4a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/bartosz/.gradle/caches/transforms-3/b69020faf507c17423f424b34a56d983/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b200d37ec6c7119e57662a1004b983aa/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/42089fb9cfdd443a9f07f600374fc06a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/5f6043c7ebe2690589934e611fc0eddf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/30c20a7faee0bbf857ee1397c00c4e53/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4bdf620a29842984111f78971256fbea/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/bartosz/.gradle/caches/transforms-3/75dffa22d760d35a49e80f248426b072/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/2e8cce44205ecc9401c1229d8cdf0654/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/bartosz/.gradle/caches/transforms-3/19fe5f580bf8bc4908a9b97822986732/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/0b7e4e7a0fe3a7915b431ca092cb47b4/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/2b37ca6e7cc1f72c157b81ebe25208fa/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/9310a81a904115be31a8c8e01e841a94/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/d1d1d441894db1a25e14af06452d4c79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/5f8e20784cb8bbecc5d6dbe8e8b1865c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/bartosz/.gradle/caches/transforms-3/040258155fd52e681c356b25286c9083/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/8f02a44d3ff5ed6707f785d8d602c743/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/d2bdeedf5c2a9110e1de11bc91dadb48/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/be977d479df71e8a272f0497ae584464/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/bartosz/.gradle/caches/transforms-3/04983771d4ec89f897f654e59a1fe208/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/bartosz/.gradle/caches/transforms-3/b35985bbd58afc251a022c279b32fa36/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c5c4809de3425614da62badf2ded5b8d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/5ef14cec17dec3e2f7a847d90d6622bb/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/79da886bb132349efbc1cec6bcc301db/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c0e3e4aa92d05a86ca6ab0bf07c4c4b3/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/9a6a30c4dc69bb6e43feca74bf17dc04/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/fcfffd284aad92454b81f2b42208c0b2/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/bartosz/.gradle/caches/transforms-3/342459d31e5f03a4937dcadcf62309aa/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/4b67a5098320f38d65deada3ef45011d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/bartosz/.gradle/caches/transforms-3/53ce8d57c3dae5d25ed9502df4e5ad59/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/f21bb1dfb6aa789686546a9b75d66c5a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/0727f6ce8eb5638a711d5da8cfad46cc/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4713d94f4218030d76d3a02f87db03d6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/abbd863d46a197d4b8625ed66d96fd56/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c047f348e1e942289b5d4d50f0372b4a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bartosz/.gradle/caches/transforms-3/d9225f370e8a2a24f29207118594dde4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/9a2ad7a11b2bfec7db1d4d188bbd746c/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/703f4e078c15a1b10397e491f4541a95/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bartosz/.gradle/caches/transforms-3/66bc5fefc31c9abecbce79b4c1a5893e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/db2fd84aa77f54055c8a78a5073d75b1/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/8d68a09769998f31eaecf7b4f0ebc1dc/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/4adf6f37749d4f91774113b144303692/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/7c45ba9912097c6a51b31253de4d311b/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/dde47dc216a51dad41261cb86447c90e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:2:3-47
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:2:3-47
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/009a9906dfd3e38e91778a236cf94ec5/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/009a9906dfd3e38e91778a236cf94ec5/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.69.12] /Users/bartosz/.gradle/caches/transforms-3/db0201b057d330b35ffc4d1fa21b1142/transformed/jetified-react-native-0.69.12-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.69.12] /Users/bartosz/.gradle/caches/transforms-3/db0201b057d330b35ffc4d1fa21b1142/transformed/jetified-react-native-0.69.12-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/bartosz/.gradle/caches/transforms-3/b69020faf507c17423f424b34a56d983/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/bartosz/.gradle/caches/transforms-3/b69020faf507c17423f424b34a56d983/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4bdf620a29842984111f78971256fbea/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4bdf620a29842984111f78971256fbea/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/bartosz/.gradle/caches/transforms-3/53ce8d57c3dae5d25ed9502df4e5ad59/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/bartosz/.gradle/caches/transforms-3/53ce8d57c3dae5d25ed9502df4e5ad59/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bartosz/.gradle/caches/transforms-3/d9225f370e8a2a24f29207118594dde4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bartosz/.gradle/caches/transforms-3/d9225f370e8a2a24f29207118594dde4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/9a2ad7a11b2bfec7db1d4d188bbd746c/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/9a2ad7a11b2bfec7db1d4d188bbd746c/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/bartosz/.gradle/caches/transforms-3/53ce8d57c3dae5d25ed9502df4e5ad59/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.dev4passion_internetshop_admin.MainActivity
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:13:7-24:18
+	android:label
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:exported
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:19:9-32
+	android:configChanges
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:16:9-118
+	android:name
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml:22:23-70
+uses-sdk
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/009a9906dfd3e38e91778a236cf94ec5/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/009a9906dfd3e38e91778a236cf94ec5/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/3131291e2127ef65443df720ced93bfe/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/3131291e2127ef65443df720ced93bfe/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/e0cf66fe48f1a73c4697b63afb7258de/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/e0cf66fe48f1a73c4697b63afb7258de/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-gesture-handler] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.69.12] /Users/bartosz/.gradle/caches/transforms-3/db0201b057d330b35ffc4d1fa21b1142/transformed/jetified-react-native-0.69.12-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.69.12] /Users/bartosz/.gradle/caches/transforms-3/db0201b057d330b35ffc4d1fa21b1142/transformed/jetified-react-native-0.69.12-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/bd21db185cce662efa15ce7d66fb8683/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/bd21db185cce662efa15ce7d66fb8683/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r250230] /Users/bartosz/.gradle/caches/transforms-3/23f492ebfbef209533728998a2c4e7e3/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/bartosz/.gradle/caches/transforms-3/23f492ebfbef209533728998a2c4e7e3/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-reanimated/android/build/.transforms/cf9f7c472abed0c75d4b1d3cd96e289b/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/node_modules/react-native-reanimated/android/build/.transforms/cf9f7c472abed0c75d4b1d3cd96e289b/transformed/jetified-react-native-reanimated-69-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f82b7ac3a7386fbb41da4987f185169c/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f82b7ac3a7386fbb41da4987f185169c/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/26450c0dbc5c31c418345df65ef953a4/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/26450c0dbc5c31c418345df65ef953a4/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/40a1334a2f62ed9f92f29317233e0e9b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/40a1334a2f62ed9f92f29317233e0e9b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/84a8e86dc1911decf8e87dc8c0b2afd9/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/84a8e86dc1911decf8e87dc8c0b2afd9/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/bartosz/.gradle/caches/transforms-3/05fe06a7b4f333c330c48faee57b027e/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/bartosz/.gradle/caches/transforms-3/05fe06a7b4f333c330c48faee57b027e/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f68a77a9d4a1aab78e55812b3f8faddc/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f68a77a9d4a1aab78e55812b3f8faddc/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b4c39531648b3c96cc0f2a525962c527/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b4c39531648b3c96cc0f2a525962c527/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b3490e4f039e3e3afb4fc6813bff84a4/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b3490e4f039e3e3afb4fc6813bff84a4/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/82c6dcdd1c1e47222d2e1c78c03ccd77/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/82c6dcdd1c1e47222d2e1c78c03ccd77/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f14230c804311733e2ad87ddd8ef7e4a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/f14230c804311733e2ad87ddd8ef7e4a/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/bartosz/.gradle/caches/transforms-3/b69020faf507c17423f424b34a56d983/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] /Users/bartosz/.gradle/caches/transforms-3/b69020faf507c17423f424b34a56d983/transformed/jetified-soloader-0.10.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b200d37ec6c7119e57662a1004b983aa/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/b200d37ec6c7119e57662a1004b983aa/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/42089fb9cfdd443a9f07f600374fc06a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/42089fb9cfdd443a9f07f600374fc06a/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/5f6043c7ebe2690589934e611fc0eddf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/5f6043c7ebe2690589934e611fc0eddf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/30c20a7faee0bbf857ee1397c00c4e53/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/30c20a7faee0bbf857ee1397c00c4e53/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4bdf620a29842984111f78971256fbea/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4bdf620a29842984111f78971256fbea/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/bartosz/.gradle/caches/transforms-3/75dffa22d760d35a49e80f248426b072/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/bartosz/.gradle/caches/transforms-3/75dffa22d760d35a49e80f248426b072/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/2e8cce44205ecc9401c1229d8cdf0654/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/2e8cce44205ecc9401c1229d8cdf0654/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/bartosz/.gradle/caches/transforms-3/19fe5f580bf8bc4908a9b97822986732/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/bartosz/.gradle/caches/transforms-3/19fe5f580bf8bc4908a9b97822986732/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/0b7e4e7a0fe3a7915b431ca092cb47b4/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/0b7e4e7a0fe3a7915b431ca092cb47b4/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/2b37ca6e7cc1f72c157b81ebe25208fa/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/2b37ca6e7cc1f72c157b81ebe25208fa/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/9310a81a904115be31a8c8e01e841a94/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/9310a81a904115be31a8c8e01e841a94/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/d1d1d441894db1a25e14af06452d4c79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/d1d1d441894db1a25e14af06452d4c79/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/5f8e20784cb8bbecc5d6dbe8e8b1865c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/5f8e20784cb8bbecc5d6dbe8e8b1865c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/bartosz/.gradle/caches/transforms-3/040258155fd52e681c356b25286c9083/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/bartosz/.gradle/caches/transforms-3/040258155fd52e681c356b25286c9083/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/8f02a44d3ff5ed6707f785d8d602c743/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/8f02a44d3ff5ed6707f785d8d602c743/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/d2bdeedf5c2a9110e1de11bc91dadb48/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/d2bdeedf5c2a9110e1de11bc91dadb48/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/be977d479df71e8a272f0497ae584464/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/be977d479df71e8a272f0497ae584464/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/bartosz/.gradle/caches/transforms-3/04983771d4ec89f897f654e59a1fe208/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/bartosz/.gradle/caches/transforms-3/04983771d4ec89f897f654e59a1fe208/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/bartosz/.gradle/caches/transforms-3/b35985bbd58afc251a022c279b32fa36/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/bartosz/.gradle/caches/transforms-3/b35985bbd58afc251a022c279b32fa36/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c5c4809de3425614da62badf2ded5b8d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c5c4809de3425614da62badf2ded5b8d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/5ef14cec17dec3e2f7a847d90d6622bb/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/5ef14cec17dec3e2f7a847d90d6622bb/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/79da886bb132349efbc1cec6bcc301db/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/79da886bb132349efbc1cec6bcc301db/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c0e3e4aa92d05a86ca6ab0bf07c4c4b3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c0e3e4aa92d05a86ca6ab0bf07c4c4b3/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/9a6a30c4dc69bb6e43feca74bf17dc04/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/9a6a30c4dc69bb6e43feca74bf17dc04/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/fcfffd284aad92454b81f2b42208c0b2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/fcfffd284aad92454b81f2b42208c0b2/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/bartosz/.gradle/caches/transforms-3/342459d31e5f03a4937dcadcf62309aa/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bartosz/.gradle/caches/transforms-3/342459d31e5f03a4937dcadcf62309aa/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/4b67a5098320f38d65deada3ef45011d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/4b67a5098320f38d65deada3ef45011d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/bartosz/.gradle/caches/transforms-3/53ce8d57c3dae5d25ed9502df4e5ad59/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/bartosz/.gradle/caches/transforms-3/53ce8d57c3dae5d25ed9502df4e5ad59/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/f21bb1dfb6aa789686546a9b75d66c5a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/f21bb1dfb6aa789686546a9b75d66c5a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/0727f6ce8eb5638a711d5da8cfad46cc/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/0727f6ce8eb5638a711d5da8cfad46cc/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4713d94f4218030d76d3a02f87db03d6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/4713d94f4218030d76d3a02f87db03d6/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/abbd863d46a197d4b8625ed66d96fd56/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/abbd863d46a197d4b8625ed66d96fd56/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c047f348e1e942289b5d4d50f0372b4a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/c047f348e1e942289b5d4d50f0372b4a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bartosz/.gradle/caches/transforms-3/d9225f370e8a2a24f29207118594dde4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/bartosz/.gradle/caches/transforms-3/d9225f370e8a2a24f29207118594dde4/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/9a2ad7a11b2bfec7db1d4d188bbd746c/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/9a2ad7a11b2bfec7db1d4d188bbd746c/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/703f4e078c15a1b10397e491f4541a95/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/703f4e078c15a1b10397e491f4541a95/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bartosz/.gradle/caches/transforms-3/66bc5fefc31c9abecbce79b4c1a5893e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bartosz/.gradle/caches/transforms-3/66bc5fefc31c9abecbce79b4c1a5893e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/db2fd84aa77f54055c8a78a5073d75b1/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/bartosz/.gradle/caches/transforms-3/db2fd84aa77f54055c8a78a5073d75b1/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/8d68a09769998f31eaecf7b4f0ebc1dc/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/8d68a09769998f31eaecf7b4f0ebc1dc/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/4adf6f37749d4f91774113b144303692/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/bartosz/.gradle/caches/transforms-3/4adf6f37749d4f91774113b144303692/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/7c45ba9912097c6a51b31253de4d311b/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/bartosz/.gradle/caches/transforms-3/7c45ba9912097c6a51b31253de4d311b/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/dde47dc216a51dad41261cb86447c90e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/bartosz/.gradle/caches/transforms-3/dde47dc216a51dad41261cb86447c90e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/009a9906dfd3e38e91778a236cf94ec5/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/bartosz/.gradle/caches/transforms-3/009a9906dfd3e38e91778a236cf94ec5/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/9a2ad7a11b2bfec7db1d4d188bbd746c/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/9a2ad7a11b2bfec7db1d4d188bbd746c/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/bartosz/.gradle/caches/transforms-3/474fb2ddb354218ec61a5f23d4456752/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/bartosz/.gradle/caches/transforms-3/486983dd903d2b83f53bf1a95d932394/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
