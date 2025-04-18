@@ -1,48 +1,24 @@
+import 'react-native-gesture-handler';
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import DrawerNavigator from './src/navigation/DrawerNavigator';
-import 'react-native-gesture-handler';
+import { createDrawerNavigator } from '@react-navigation/drawer';
+import { Text, View } from 'react-native';
 
-const App = () => {
+const Drawer = createDrawerNavigator();
+
+const HomeScreen = () => <View><Text>Home</Text></View>;
+const ProfileScreen = () => <View><Text>Profile</Text></View>;
+
+export default function App() {
   return (
     <NavigationContainer>
-      <DrawerNavigator />
+      <Drawer.Navigator initialRouteName="Home">
+        <Drawer.Screen name="Home" component={HomeScreen} />
+        <Drawer.Screen name="Profile" component={ProfileScreen} />
+      </Drawer.Navigator>
     </NavigationContainer>
   );
-};
-
-export default App;
-
-
-// import 'react-native-gesture-handler';
-// import React from 'react';
-// import { NavigationContainer } from '@react-navigation/native';
-// import { createDrawerNavigator } from '@react-navigation/drawer';
-// import { Text, View } from 'react-native';
-// import AddCategoryScreen from './screens/AddCategoryScreen';
-// import AddProductScreen from './screens/AddProductScreen';
-// import CategoriesScreen from './screens/CategoriesScreen';
-// import ProductListScreen from './screens/ProductListScreen';
-
-// const Drawer = createDrawerNavigator();
-
-// const HomeScreen = () => <View><Text>Home</Text></View>;
-// const ProfileScreen = () => <View><Text>Profile</Text></View>;
-
-// export default function App() {
-//   return (
-//     <NavigationContainer>
-//       <Drawer.Navigator initialRouteName="Show Products">
-//         {/* <Drawer.Screen name="Home" component={HomeScreen} />
-//         <Drawer.Screen name="Profile" component={ProfileScreen} /> */}
-//         <Drawer.Screen name="Add Category" component={AddCategoryScreen} />
-//         <Drawer.Screen name="Add Product" component={AddProductScreen} />
-//         <Drawer.Screen name="Show Categories" component={CategoriesScreen} />
-//         <Drawer.Screen name="Show Products" component={ProductListScreen} />
-//       </Drawer.Navigator>
-//     </NavigationContainer>
-//   );
-// }
+}
 
 
 

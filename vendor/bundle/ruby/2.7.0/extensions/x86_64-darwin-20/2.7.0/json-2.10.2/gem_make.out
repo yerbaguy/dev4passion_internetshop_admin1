@@ -1,5 +1,5 @@
 current directory: /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/vendor/bundle/ruby/2.7.0/gems/json-2.10.2/ext/json/ext/parser
-/Users/bartosz/.rbenv/versions/2.7.6/bin/ruby -I /Users/bartosz/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20250413-74453-eyx272.rb extconf.rb
+/Users/bartosz/.rbenv/versions/2.7.6/bin/ruby -I /Users/bartosz/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20250418-42106-1yo6isx.rb extconf.rb
 checking for rb_enc_interned_str() in ruby.h... no
 checking for rb_hash_new_capa() in ruby.h... no
 checking for rb_hash_bulk_insert() in ruby.h... yes
@@ -22,4 +22,4 @@ linking shared-object json/ext/parser.bundle
 
 current directory: /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/vendor/bundle/ruby/2.7.0/gems/json-2.10.2/ext/json/ext/parser
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 parser.bundle ./.gem.20250413-74453-16kirla/json/ext
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20250418-42106-17ax2h/json/ext

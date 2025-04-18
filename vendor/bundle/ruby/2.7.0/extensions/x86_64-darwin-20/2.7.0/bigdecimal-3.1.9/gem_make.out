@@ -1,5 +1,5 @@
 current directory: /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/vendor/bundle/ruby/2.7.0/gems/bigdecimal-3.1.9/ext/bigdecimal
-/Users/bartosz/.rbenv/versions/2.7.6/bin/ruby -I /Users/bartosz/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20250413-74453-1jx4wg8.rb extconf.rb
+/Users/bartosz/.rbenv/versions/2.7.6/bin/ruby -I /Users/bartosz/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20250418-42106-5b19k3.rb extconf.rb
 checking for __builtin_clz()... yes
 checking for __builtin_clzl()... yes
 checking for __builtin_clzll()... yes
@@ -38,4 +38,4 @@ linking shared-object bigdecimal.bundle
 
 current directory: /Users/bartosz/Documents/react-native/dev4passion_internetshop_admin/vendor/bundle/ruby/2.7.0/gems/bigdecimal-3.1.9/ext/bigdecimal
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20250413-74453-130d82m
+/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20250418-42106-16buoep
