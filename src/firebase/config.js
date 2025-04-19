@@ -4,7 +4,13 @@ import storage from '@react-native-firebase/storage';
 
 const firebaseConfig = {
     // Your Firebase config object from Firebase console
-    apiKey: 'YOUR_API_KEY',
+    // apiKey: 'YOUR_API_KEY',
+    // authDomain: 'YOUR_AUTH_DOMAIN',
+    // projectId: 'YOUR_PROJECT_ID',
+    // storageBucket: 'YOUR_STORAGE_BUCKET',
+    // messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    // appId: 'YOUR_APP_ID',
+
     apiKey: "AIzaSyCEaylFdChEU-idKJjo5hF1L027hFIsdXk",
     authDomain: "internetshop-8bc07.firebaseapp.com",
     databaseURL: "https://internetshop-8bc07.firebaseio.com",
